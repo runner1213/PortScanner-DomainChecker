@@ -1,0 +1,53 @@
+domains:
+  # Donator (Gamely) Servers
+  - "65.108.100.119": "donator1.gamely.pro"
+  - "65.108.206.102": "donator2.gamely.pro"
+  - "65.108.225.15": "donator3.gamely.pro"
+  - "65.108.226.229": "donator4.gamely.pro"
+  - "65.108.228.137": "donator5.gamely.pro"
+  - "65.108.227.231": "donator6.gamely.pro"
+  - "65.108.234.37": "donator7.gamely.pro"
+  - "65.108.75.109": "donator8.gamely.pro"
+  - "65.109.23.34": "donator9.gamely.pro"
+  - "65.109.38.94": "donator10.gamely.pro"
+  - "95.217.107.186": "donator11.gamely.pro"
+  - "95.217.63.62": "donator12.gamely.pro"
+  - "95.217.106.163": "donator13.gamely.pro"
+  - "135.181.178.58": "donator14.gamely.pro"
+  - "95.217.43.185": "donator15.gamely.pro"
+  - "65.109.114.208": "donator16.gamely.pro"
+  - "65.21.88.156": "donator20.gamely.pro"
+  - "167.235.181.103": "donator21.gamely.pro"
+  - "144.76.113.152": "donator22.gamely.pro"
+  - "136.243.55.236": "donator23.gamely.pro"
+  - "65.21.220.210": "donator24.gamely.pro"
+  - "65.109.95.247": "donator25.gamely.pro"
+  - "5.9.97.124": "donator26.gamely.pro"
+  - "65.108.237.51": "donator27.gamely.pro"
+  - "65.108.239.236": "donator28.gamely.pro"
+  - "65.109.123.25": "donator29.gamely.pro"
+  - "65.109.58.46": "donator30.gamely.pro"
+  - "65.109.69.99": "donator31.gamely.pro"
+  - "185.9.145.192": "donator32.gamely.pro" # Ryzen 9 7950x (RU)
+  - "135.181.229.166": "donator33.gamely.pro" # Ryzen 9 7950x3D
+  - "144.76.61.107": "donator34.gamely.pro" # Ryzen 9 7950x3D
+
+  # Game (Gamely) Servers
+  - "185.219.84.38": "game4.gamely.pro"
+  - "185.219.84.39": "game5.gamely.pro" # Ryzen 9 5950X
+  - "185.219.84.43": "game6.gamely.pro"
+  - "185.254.98.185": "game8.gamely.pro"
+  - "45.145.42.42": "game9.gamely.pro"
+  - "45.157.235.2": "game10.gamely.pro"
+
+  # Free (Gamely) Servers
+  - "95.216.114.205": "free6.gamely.pro"
+  - "195.201.202.184": "free7.gamely.pro"
+  - "65.108.74.334": "free8.gamely.pro"
+  - "142.132.250.32": "free9.gamely.pro"
+
+  # Spaceroute Servers
+  - "65.109.66.96": "neptune.spaceroute.net"
+  - "45.157.235.10": "saturn.spaceroute.net"
+  - "45.157.235.6": "venus.spaceroute.net"
+  - "185.9.145.210": "jupiter.spaceroute.net" # (RU)
